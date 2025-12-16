@@ -4,6 +4,19 @@ All in One Keyword Suggestion Tool adalah aplikasi desktop gratis yang dirancang
 
 ---
 
+## 🖥️ Sistem Operasi yang Didukung
+
+Tool ini **hanya mendukung sistem operasi Windows**, dengan detail sebagai berikut:
+
+* ✅ Windows 7 (32-bit & 64-bit)
+* ✅ Windows 8.1 (32-bit & 64-bit)
+* ✅ Windows 10 (32-bit & 64-bit)
+* ✅ Windows 11 (64-bit)
+
+> ❗ Saat ini tool **belum mendukung macOS dan Linux**.
+
+---
+
 ## ✨ Fitur Utama
 
 All in One Keyword Suggestion Tool menggabungkan beberapa keyword suggestion populer, yaitu:
@@ -69,6 +82,12 @@ Hasil keyword akan disimpan dalam format teks (.txt) dan dapat digunakan kembali
 Tool ini mengambil data keyword berdasarkan **search suggestion** yang tersedia secara publik. Hasil keyword dapat berbeda tergantung koneksi internet, lokasi, dan platform yang dipilih.
 
 ---
+
+## 🖼️ Cuplikan Tampilan Aplikasi
+
+<div align="center">
+  <img src="./assets/All in One Keyword Suggestion Tool.jpg" alt="All in One Keyword Suggestion Tool">
+</div>
 
 ## 📌 Lisensi
 
